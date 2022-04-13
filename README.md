@@ -15,7 +15,7 @@ Once I started my professional career as a financial data analyst, the gap betwe
 
 3. [Attention Mechanism in ML](https://github.com/aminanalyst/Amin-Edrisi/new/main#examine-the-gap-between-beliefs-and-actions-using-data-driven-approaches-to-assist-smes-australia)
 
-# Examine the gap between beliefs and actions using data-driven approaches to assist SMEs, Australia
+Examine the gap between beliefs and actions using data-driven approaches to assist SMEs, Australia
 <P align="justify">
 Establishing a new business may involve Knowledge acquisition in various areas, from personal to business and marketing sources.
 This task is challenging as it requires examining various data islands to uncover hidden patterns and unknown correlations such as purchasing behavior,
