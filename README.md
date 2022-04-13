@@ -10,6 +10,8 @@ Once I started my professional career as a financial data analyst, the gap betwe
 
 1. State-of-the-art
 
+2. Projects
+
 
 2. Business Process Improvements
 
