@@ -1,6 +1,7 @@
 ### Acknowledements
+<P>
 I am thankful to my parents. I want to acknowledge all of my teachers and mentors. The most important include Dr Mohammad Ali Barati, Professor Amin Beheshti, Professor Boualem Benatallah, Cameron Wasilewsky, Archna Das, and my colleagues who have taught me as much.
-
+</p>
 ### About Amin
 Once I started my professional career as a financial data analyst, the gap between **Data Consumers** and **Data Users** was wide enough to focus on a specific task at a time and still be productive. Thanks to the big data ecosystem, the line between those areas is becoming indistinct and hazy in outline. Therefore, I have picked **Process Improvement** as a research interest.
 
