@@ -1,5 +1,5 @@
 ### Acknowledements
-<P>
+<P align="justify">
 I am thankful to my parents. I want to acknowledge all of my teachers and mentors. The most important include Dr Mohammad Ali Barati, Professor Amin Beheshti, Professor Boualem Benatallah, Cameron Wasilewsky, Archna Das, and my colleagues who have taught me as much.
 </p>
 ### About Amin
