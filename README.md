@@ -4,7 +4,7 @@ I am thankful to my parents. I want to acknowledge all of my teachers and mentor
 </p>
 ### About Amin
 <P align="justify">
-Once I started my professional career as a financial data analyst, the gap between _Data Consumers_ and _Data Users_ was wide enough to focus on a specific task at a time and still be productive. Thanks to the big data ecosystem, the line between those areas is becoming indistinct and hazy in outline. Therefore, I have picked _Process Improvement_ as a research interest.
+Once I started my professional career as a financial data analyst, the gap between _*Data Consumers*_ and _Data Users_ was wide enough to focus on a specific task at a time and still be productive. Thanks to the big data ecosystem, the line between those areas is becoming indistinct and hazy in outline. Therefore, I have picked _Process Improvement_ as a research interest.
 </p>
 ### Table of Contents
 
