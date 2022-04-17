@@ -12,6 +12,8 @@ Once I started my professional career as a financial data analyst, the gap betwe
 
 2. Projects
 
+<iframe src="https://atlas.mindmup.com/aminanalyst/mtl_categories/index.html"></iframe>
+
 
 2. Business Process Improvements
 
